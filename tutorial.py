@@ -25,6 +25,7 @@ class SeaofBTCapp(tk.Tk):  # put inheritance from other class
         frame.tkraise()
 
 
+
 class StartPage(tk.Frame):
     def __init__(self, parent, controller):
         tk.Frame.__init__(self, parent)
